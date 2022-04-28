@@ -27,9 +27,9 @@ Numpy which is called numerical python is used to perform mathematical and logic
 </p>
 
 Analysis:
-  • People sleep most on Sunday
-  • Average sleep taken by people on weekdays is approximately 7 hours
-  • People tend to sleep 1 hour more on Sunday than on weekdays
+- People sleep most on Sunday
+- Average sleep taken by people on weekdays is approximately 7 hours
+- People tend to sleep 1 hour more on Sunday than on weekdays
 
 #### Question 2: How does travel affects average steps taken and average calories burned in a day?
 
