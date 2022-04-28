@@ -23,7 +23,7 @@ Numpy which is called numerical python is used to perform mathematical and logic
 #### Question 1: Check whether there is a significant difference in the activity of people between weekdays and weekends.
 
 <p align="center">
- <img src= "Images/FitbitQ1.png">
+ <img src= "Images/Fitbit_Q1.png">
 </p>
 
 Analysis:
@@ -34,7 +34,7 @@ Analysis:
 #### Question 2: How does travel affects average steps taken and average calories burned in a day?
 
 <p align="center">
- <img src= "Images/FitbitQ2.png">
+ <img src= "Images/Fitbit_Q2.png">
 </p>
 
 Analysis:
@@ -44,7 +44,7 @@ Analysis:
 #### Question 3: Is there a significant difference among users based on Average daily steps and distance travelled?
 
 <p align="center">
- <img src= "Images/FitbitQ3.png">
+ <img src= "Images/Fitbit_Q3.png">
 </p>
 
 Analysis:
@@ -55,7 +55,7 @@ Analysis:
 #### Question 4: How people use their time throughout the week in terms of daily activity?
 
 <p align="center">
- <img src= "Images/FitbitQ4.png">
+ <img src= "Images/Fitbit_Q4.png">
 </p>
 
 Analysis:
@@ -65,7 +65,7 @@ Analysis:
 #### Question 5: Find a correlation between Daily steps taken and Daily Calories burned
 
 <p align="center">
- <img src= "Images/FitbitQ5.png">
+ <img src= "Images/Fitbit_Q5.png">
 </p>
 
 Analysis:
@@ -75,8 +75,8 @@ Analysis:
 #### Question 6: Trend of average steps taken, and average distance covered in April and May
 
 <p align="center">
- <img src= "Images/FitbitQ6A.png">
-  <img src= "Images/FitbitQ6B.png">
+ <img src= "Images/Fitbit_Q6A.png">
+  <img src= "Images/Fitbit_Q6B.png">
 </p>
 
 Analysis:
@@ -87,7 +87,7 @@ Analysis:
 #### Question 7: Calories burned throughout the day
 
 <p align="center">
- <img src= "Images/FitbitQ7.png">
+ <img src= "Images/Fitbit_Q7.png">
 </p>
 
 Analysis:
@@ -99,7 +99,7 @@ Analysis:
 #### Question 8: Find a correlation between Average Sedentary hours and Average Sleep hours
 
 <p align="center">
- <img src= "Images/FitbitQ8.png">
+ <img src= "Images/Fitbit_Q8.png">
 </p>
 
 Analysis:
@@ -111,7 +111,7 @@ Analysis:
 #### Question 9: Find a correlation between Calories burned and Average Sleep hours
 
 <p align="center">
- <img src= "Images/FitbitQ9.png">
+ <img src= "Images/Fitbit_Q9.png">
 </p>
 
 Analysis:
@@ -121,7 +121,7 @@ Analysis:
 #### Question 10: What is the sleeping pattern of 24 people?
 
 <p align="center">
- <img src= "Images/FitbitQ10.png">
+ <img src= "Images/Fitbit_Q10.png">
 </p>
 
 Analysis:
@@ -132,7 +132,7 @@ Analysis:
 #### Question 11: Observe the relation between average weight and average BMI of the person.
 
 <p align="center">
- <img src= "Images/FitbitQ11.png">
+ <img src= "Images/Fitbit_Q11.png">
 </p>
 
 Analysis:
