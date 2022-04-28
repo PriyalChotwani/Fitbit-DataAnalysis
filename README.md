@@ -16,7 +16,13 @@ There are 5 datasets:
 
 # Preprocessing
 
-Numpy which is called numerical python is used to perform mathematical and logical operations on the data. Pandas is used for data manipulation and analysis particularly for table operations. Matplotlib and Seaborn are the libraries used for visualisations. These steps are shown in the zip folder included. 
+Numpy which is called numerical python is used to perform mathematical and logical operations on the data. Pandas is used for data manipulation and analysis particularly for table operations. Matplotlib and Seaborn are the libraries used for visualisations. 
+
+
+<p align="center">
+ <img src= "Images/PreProcessing1.png">
+ <img src= "Images/PreProcessing2.png">
+</p>
 
 # Visualizations and Analysis
 
