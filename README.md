@@ -138,5 +138,5 @@ Analysis:
 Analysis:
   • One of the people has very high weight and BMI
   • There is direct relation between average rate and average BMI
-  • Average BMI of the users is approximate 28
+  • Average BMI of the users is approximate 28 
 
